@@ -5,7 +5,7 @@ from socket import *
 
 import sys
 
-serverPort=6789
+serverPort=80
 
 serverSocket = socket(AF_INET, SOCK_STREAM)
 
