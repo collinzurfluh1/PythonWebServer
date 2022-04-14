@@ -1,5 +1,4 @@
 #import socket module
-#Source: VVVVVVVVVVVVV
 from socket import *
 
 import sys
