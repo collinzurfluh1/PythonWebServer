@@ -1,6 +1,5 @@
 #import socket module
 #Source: VVVVVVVVVVVVV
-#https://www.chegg.com/homework-help/questions-and-answers/8-10-points-socket-programming-assignment-web-server-page-179-lab-learn-basics-socket-prog-q28177085
 from socket import *
 
 import sys
